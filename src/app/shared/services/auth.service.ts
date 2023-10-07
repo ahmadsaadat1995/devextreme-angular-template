@@ -3,8 +3,8 @@ import { CanActivate, Router, ActivatedRouteSnapshot } from '@angular/router';
 
 const defaultPath = '/';
 const defaultUser = {
-  email: 'sandra@example.com',
-  avatarUrl: 'https://js.devexpress.com/Demos/WidgetsGallery/JSDemos/images/employees/06.png'
+  email: 'saadat999@outlook.com',
+  avatarUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fbest-of-bing-wallpaper&psig=AOvVaw265jO0NTGrbLnkNYVkfYVn&ust=1696576852738000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDZzLev3oEDFQAAAAAdAAAAABAE'
 };
 
 @Injectable()
